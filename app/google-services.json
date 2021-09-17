@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603381322228",
+    "project_id": "login-signupp-9a48f",
+    "storage_bucket": "login-signupp-9a48f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603381322228:android:ab7a0f598f4165d6ae29a1",
+        "android_client_info": {
+          "package_name": "com.example.smarthulumente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603381322228-dr2t4uet9cj36muo3d1pmdcv0vbom75m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMFX3OxUv1jt6tBiERkgD2bU02mMp_DCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603381322228-dr2t4uet9cj36muo3d1pmdcv0vbom75m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
